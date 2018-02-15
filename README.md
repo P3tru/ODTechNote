@@ -1,5 +1,4 @@
 # OD TechNote
-Design Report for the experiment to be reviewed by KEK/ICRR - 2015
 
 - main text file: ODTN.tex
 - Uses revtex 4.1
